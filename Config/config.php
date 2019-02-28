@@ -18,9 +18,9 @@ $config->set('viewsFolder', 'vistas/');
 
 // establecemos los parámetros de conexión a la BBDD
 $config->set('dbhost', 'localhost');
-$config->set('dbname', 'student');
-$config->set('dbuser', 'student');
-$config->set('dbpass', 'student');
+$config->set('dbname', 'user_minishop');
+$config->set('dbuser', 'user_minishop');
+$config->set('dbpass', '123456');
 
 // modo dev - manejo de errores
 error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);

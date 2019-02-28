@@ -6,7 +6,8 @@
     <tr>
         <h1><?php echo $datos['titulo'] ?></h1>
         <p><?php echo $datos['texto'] ?></p>
-    </tr>   
+    </tr>       
+
     
 </table>
 
